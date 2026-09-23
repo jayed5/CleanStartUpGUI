@@ -1,0 +1,21 @@
+1 ICON "CleanStart.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,1,0,0
+PRODUCTVERSION  1,1,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "FileDescription", "CleanStart Installer"
+      VALUE "ProductName",     "CleanStart"
+      VALUE "FileVersion",     "1.1"
+      VALUE "LegalCopyright",  "https://github.com/jayed5"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END

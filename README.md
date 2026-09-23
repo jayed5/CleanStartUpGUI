@@ -6,7 +6,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-blue)](#)
 [![Language](https://img.shields.io/badge/language-C%2B%2B%20(Win32)-00599C)](#)
-[![Release](https://img.shields.io/badge/release-v1.0.0-green)](bin/RELEASE-v1.0.0.md)
+[![Release](https://img.shields.io/badge/release-v1.0.0-green)](../../releases/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#)
 
 *The GUI edition of [CleanStartUp](https://github.com/jayed5/CleanStartUp) — same engine, better experience.*

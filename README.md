@@ -33,6 +33,12 @@ The **GUI edition** replaces the original batch script with a native Win32 appli
 
 ---
 
+## Screenshots
+
+![CleanStart interface](screenshot.png)
+
+---
+
 ## ✨ Features
 
 - **Live install status** — the app detects whether the `CleanStart` scheduled task exists and whether a Startup-folder entry is present, shown at a glance in the Status field (green = installed, gray = not installed).

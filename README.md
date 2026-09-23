@@ -76,12 +76,10 @@ The **GUI edition** replaces the original batch script with a native Win32 appli
 ## 🔨 Building from source
 
 ```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File src\build.ps1
+powershell -NoProfile -ExecutionPolicy Bypass -File build.ps1
 ```
 
 The script generates the icon and manifest, locates a compiler (MSYS2 UCRT64 / CodeBlocks / PATH), and builds `bin\CleanStartInstaller.exe`. Requires any MinGW-w64 g++ (e.g. `pacman -S mingw-w64-ucrt-x86_64-gcc` in MSYS2).
-
-Source details: [`src/README.md`](src/README.md).
 
 ---
 
